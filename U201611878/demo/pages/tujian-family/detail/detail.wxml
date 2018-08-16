@@ -1,0 +1,11 @@
+<view>
+  <view class="title-container">
+    <text class="speName">{{speName}}</text>
+    <text class="fgName">{{familyName}}</text>
+    <image src="{{speImg}}" mode="aspectFit"></image>
+  </view>
+  <view class="content">
+    <text>{{speCon}}</text>
+    <view class="hr"></view>
+  </view>
+</view>
